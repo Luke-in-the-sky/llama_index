@@ -62,9 +62,9 @@ To download or contribute, find LlamaIndex on:
   - GPT Index (duplicate): https://pypi.org/project/gpt-index/.
 
 - NPM (Typescript/Javascript):
-   - Github: https://github.com/run-llama/LlamaIndexTS
-   - Docs: https://ts.llamaindex.ai/
-   - LlamaIndex.TS: https://www.npmjs.com/package/llamaindex
+  - Github: https://github.com/run-llama/LlamaIndexTS
+  - Docs: https://ts.llamaindex.ai/
+  - LlamaIndex.TS: https://www.npmjs.com/package/llamaindex
 
 Community
 ---------
